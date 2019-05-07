@@ -1,0 +1,2 @@
+# -mod
+Cataclysm:DDA のMODです
